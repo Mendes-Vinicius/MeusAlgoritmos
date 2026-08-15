@@ -8,9 +8,7 @@ Este repositório foi criado para armazenar e organizar os algoritmos que estudo
 
 ## 📁 Organização do Repositório
 O projeto está dividido nas seguintes pastas:
-* `/ordenacao`: Algoritmos como Bubble Sort e Quick Sort.
-* `/busca`: Algoritmos de Busca Binária e Busca Linear.
-* `/estruturas-dados`: Exemplos de Pilhas, Filas e Listas.
+* `/aulaArquivos`: Todos os códigos utilizados nas aulas de Arquivos. 
 
 ## 🛠️ Como Compilar e Executar os Códigos em C
 
