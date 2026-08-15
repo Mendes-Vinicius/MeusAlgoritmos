@@ -21,20 +21,20 @@ git clone https://github.com
 
 2. Entre na pasta do algoritmo:
 ```bash
-cd seu-repositorio/ordenacao
+cd seu-repositorio/aulaArquivos
 ```
 
 3. Compile o arquivo `.c` gerando um programa executável:
 ```bash
-gcc bubble_sort.c -o bubble_sort
+gcc copia1.c -o copia1
 ```
 
 4. Execute o programa gerado:
 * **No Windows:**
 ```bash
-bubble_sort.exe
+copia1.exe
 ```
 * **No Linux ou Mac:**
 ```bash
-./bubble_sort
+./copia1
 ```
