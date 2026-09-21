@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 	}
 
 	int aux = 0;
-  c = fgetc(entrada);
+    c = fgetc(entrada);
 	while(c != EOF)
 	{
 		if(c == '\n'){
